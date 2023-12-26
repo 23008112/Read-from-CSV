@@ -33,6 +33,7 @@ print("rows",len(df.axes[1]))
 ```
 
 ## OUTPUT
+![Screenshot 2023-12-26 091128](https://github.com/23008112/Read-from-CSV/assets/138972470/4102350d-f7e6-4919-9aec-4586538717b2)
 
 ## RESULT:
 Thus the program is written to read the csv file.
